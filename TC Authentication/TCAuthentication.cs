@@ -27,7 +27,7 @@ namespace TC_Authentication
                 return false;
         }
 
-        public static bool NumberCountControl(string IdentificationNumber)
+        private static bool NumberCountControl(string IdentificationNumber)
         {
             if (IdentificationNumber.Length == 11)
                 return true;
@@ -36,7 +36,7 @@ namespace TC_Authentication
         }
 
 
-        public static bool NumberControl(int FirstNumber, int LastNumber)
+        private static bool NumberControl(int FirstNumber, int LastNumber)
         {
             if (FirstNumber != 0 && LastNumber % 2 == 0)
                 return true;
@@ -44,7 +44,7 @@ namespace TC_Authentication
                 return false;
         }
 
-        public static bool TenthNumberCheck(string IdentificationNumber)
+        private static bool TenthNumberCheck(string IdentificationNumber)
         {
             int TotalTek = 0, TotalCift = 0;
             for (int i = 0; i < 9; i++)
@@ -63,7 +63,7 @@ namespace TC_Authentication
                 return false;
         }
 
-        public static bool EleventhCheck(string IdentificationNumber)
+        private static bool EleventhCheck(string IdentificationNumber)
         {
             int Total = 0;
             for (int i = 0; i < 10; i++)
