@@ -1,0 +1,6 @@
+c:\users\semih\source\repos\TC Authentication\TC Authentication\obj\Debug\TC Authentication.csprojResolveAssemblyReference.cache
+c:\users\semih\source\repos\TC Authentication\TC Authentication\obj\Debug\TC Authentication.csproj.CoreCompileInputs.cache
+c:\users\semih\source\repos\TC Authentication\TC Authentication\bin\Debug\TC Authentication.dll
+c:\users\semih\source\repos\TC Authentication\TC Authentication\bin\Debug\TC Authentication.pdb
+c:\users\semih\source\repos\TC Authentication\TC Authentication\obj\Debug\TC Authentication.dll
+c:\users\semih\source\repos\TC Authentication\TC Authentication\obj\Debug\TC Authentication.pdb
