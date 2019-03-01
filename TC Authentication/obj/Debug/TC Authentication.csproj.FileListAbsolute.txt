@@ -4,3 +4,9 @@ c:\users\semih\source\repos\TC Authentication\TC Authentication\bin\Debug\TC Aut
 c:\users\semih\source\repos\TC Authentication\TC Authentication\bin\Debug\TC Authentication.pdb
 c:\users\semih\source\repos\TC Authentication\TC Authentication\obj\Debug\TC Authentication.dll
 c:\users\semih\source\repos\TC Authentication\TC Authentication\obj\Debug\TC Authentication.pdb
+D:\github\TcId\TC Authentication\TC Authentication\bin\Debug\TC Authentication.dll
+D:\github\TcId\TC Authentication\TC Authentication\bin\Debug\TC Authentication.pdb
+D:\github\TcId\TC Authentication\TC Authentication\obj\Debug\TC Authentication.csprojResolveAssemblyReference.cache
+D:\github\TcId\TC Authentication\TC Authentication\obj\Debug\TC Authentication.csproj.CoreCompileInputs.cache
+D:\github\TcId\TC Authentication\TC Authentication\obj\Debug\TC Authentication.dll
+D:\github\TcId\TC Authentication\TC Authentication\obj\Debug\TC Authentication.pdb
