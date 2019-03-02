@@ -5,5 +5,5 @@ Bu paket TC kimlik numarasının doğru olup olmadığını kontrol etmektedir.
 > ### TCAuthentication.Authentication(string TCNumber)
 >  Bu fonksiyon parametre olarak gelen kimlik numarasının doğruluğunu true ya da false olarak geri döndürmektedir. 
 
-<font color="red">This is some text!</font>
+
 
